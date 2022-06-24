@@ -19,3 +19,5 @@
 - time listened
 - offline support
 - manually enter meditation
+
+<img src="https://github.com/Orlando17544/Portafolio/blob/main/src/assets/relaxApp.gif" alt="Simplefolio" width="900px" />
